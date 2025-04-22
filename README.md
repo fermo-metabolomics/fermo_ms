@@ -1,5 +1,7 @@
 # fermo_ms
 
+[![DOI](https://zenodo.org/badge/951147494.svg)](https://doi.org/10.5281/zenodo.15203137)
+
 Contains data generated in the scope of the FERMO manuscript.
 
 ## Content
